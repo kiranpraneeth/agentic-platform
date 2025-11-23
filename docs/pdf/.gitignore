@@ -1,0 +1,5 @@
+# Ignore generated PDFs (they can be regenerated)
+*.pdf
+
+# Keep this directory
+!.gitignore
